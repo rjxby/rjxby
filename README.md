@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-I'm **Vlad**, a **Lead Software Engineer** with over **9 years of experience** in building scalable **client-server** and **cloud solutions**. I thrive on solving complex problems, mentoring teams, and driving projects to success.  
+I'm **Vlad**, a **Lead Software Engineer** with over **10 years of experience** in building scalable **client-server** and **cloud solutions**. I thrive on solving complex problems, mentoring teams, and driving projects to success.  
 
 ### 🔹 What I Bring  
 - 🏗 **10+ years** of hands-on software development experience  
